@@ -1,2 +1,2 @@
 # Taittsuu-Web
-タイッツーをWebから見るだけのもの。Taittsuu client for Windows10 & 11.
+タイッツーをWebから見るだけのもの。Web based Taittsuu client for windows.
