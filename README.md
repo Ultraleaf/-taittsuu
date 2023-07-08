@@ -1,2 +1,2 @@
 # Taittsuu-Web
-タイッツーをWebから見るだけのもの。Desktop taittsuu app using Tauri.
+タイッツーをWebから見るだけのもの。Taittsuu client for Windows10 & 11.
